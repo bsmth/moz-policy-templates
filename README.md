@@ -1,5 +1,7 @@
-**These policies are in active development and so might contain changes that do not work with current versions of Firefox.**
+# Firefox Enterprise Policies
 
-**You should use the [officially released versions](https://github.com/mozilla/policy-templates/releases) if you are deploying changes.**
+> [!NOTE]
+> These policies are in active development and may contain changes that do not work with previous versions of Firefox.
+> See the [policies GitHub releases](https://github.com/mozilla/policy-templates/releases) if you are deploying changes.
 
-Official policy documentation has been moved to https://mozilla.github.io/policy-templates/.
+The documentation for policies is available at https://mozilla.github.io/policy-templates/.

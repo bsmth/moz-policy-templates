@@ -1,0 +1,27 @@
+{
+  "default": true,
+  // MD013 - line length
+  "MD013": false,
+  // MD024 - duplicate headings
+  "MD024": false,
+  // MD030 - list marker space
+  "MD030": false,
+  // MD033 - no inline HTML
+  "MD033": false,
+  // MD034 - no bare URLs
+  "MD034": false,
+  // MD040 - fenced code language
+  "MD040": false,
+  // MD041 - first line H1
+  "MD041": false,
+  // MD056 - table column count
+  "MD056": false,
+  // MD059 - descriptive link text
+  "MD059": false,
+  "ul-indent": {
+    "indent": 2
+  },
+  "ul-style": {
+    "style": "dash"
+  }
+}
